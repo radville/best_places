@@ -1,0 +1,4 @@
+class BestPlaces::Scraper
+
+    
+end
